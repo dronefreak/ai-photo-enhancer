@@ -1,5 +1,4 @@
 # AI Photo Enhancer
-[![Topics](https://img.shields.io/github/topics/dronefreak/ai-photo-enhancer)](https://github.com/dronefreak/ai-photo-enhancer)
 
 A fast AI-powered photo enhancer using Real-ESRGAN and GFPGAN for super-resolution and face restoration.
 
